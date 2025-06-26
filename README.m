@@ -1,4 +1,4 @@
-#📈 Advanced Portfolio Suggestion System (BTP - IIT Kharagpur)
+# 📈 Advanced Portfolio Suggestion System (BTP - IIT Kharagpur)
 
 A data-driven, risk-aware mutual fund optimization engine that uses **Modern Portfolio Theory (MPT)**, **SARIMAX time-series forecasting**, **clustering**, and **genetic algorithms** to generate personalized investment portfolios based on user-defined risk appetite and return goals.
 
