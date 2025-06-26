@@ -149,7 +149,7 @@ This project was submitted as a Bachelor’s thesis:
 > **Aritra Ray**  
 > B.Tech – Industrial Engineering  
 > IIT Kharagpur (2025)  
-> [GitHub](https://github.com/AritraRock) | [LinkedIn](https://linkedin.com/in/aritraray) | [Email](mailto:aritrabts@gmail.com)
+> [GitHub](https://github.com/AritraRock) | [LinkedIn]([https://linkedin.com/in/aritraray](https://www.linkedin.com/in/aritra-ray-bb2b03223/)) | [Email](mailto:aritrabts@gmail.com)
 
 ---
 
